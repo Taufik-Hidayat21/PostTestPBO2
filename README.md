@@ -1,4 +1,7 @@
 # Prison
+Nama : Taufik Hidayat
+NIM : 2209116097
+Kelas : Sistem Informasi B '22
 ## Penjelasan Source Code
 Pada gambar dibawah class Prisoners digunakan sebagai entitas yang akan digunakan pada class Prison nantinya. Pada class Prisoners ini ada inisialisasi property yang berisi "noPrisoner", "name", "gender", dan "age". Dan constructor Prisoner digunakan untuk membuat objek yang berisi property yang sudah di inisialisasikan pada class Prisoners.
 ![image](https://github.com/Taufik-Hidayat21/PostTestPBO2/assets/122289679/f0ce771b-ddf9-4fb0-92c3-90e7498f2025)
