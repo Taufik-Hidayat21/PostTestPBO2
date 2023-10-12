@@ -18,3 +18,7 @@ Pada gambar diatas merupakan menu read yang mana data yang ada di salah satu lis
 Pada gambar diatas merupakan menu update yang berisi operasi yang dibutuhkan untuk mengubah data, pada menu ini variabel yang dapat diubah adalah "age". Input pertama yang dilakukan adalah input gender untuk mengetahui list apa yang ingin di update datanya, lalu input Prisoner Number yang ingin di update dan input data baru yaitu "age" yang baru.  
 ![image](https://github.com/Taufik-Hidayat21/PostTestPBO2/assets/122289679/f0178e04-26ad-482b-961b-0714de151802)
 ![image](https://github.com/Taufik-Hidayat21/PostTestPBO2/assets/122289679/a287dcaf-6974-4e2e-8588-d0a6295441f5)
+Pada gambar diatas merupakan menu exit, jadi ketika menu ini dipilih maka program akan berhenti/keluar. Dan ada fungsi default jika menu yang dimasukan sebelumnya tidak ada atau salah.
+## Penjelasan Output
+![image](https://github.com/Taufik-Hidayat21/PostTestPBO2/assets/122289679/e2cf4a27-89f6-4021-ad84-313d579d5801)
+Pada gambar diatas adalah output menu yang ada di Prison
